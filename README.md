@@ -1,2 +1,3 @@
 # hello-word
-just another repository
+hi everybody . 
+ i'm here , it's best code save repository . 
